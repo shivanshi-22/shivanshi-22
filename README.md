@@ -27,16 +27,24 @@ I am a passionate Computer Science student at Bennett University with experience
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshi-22&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshi-22&layout=compact&theme=radical)
+## 📛 Badges  
 
----
 ![Profile views](https://komarev.com/ghpvc/?username=shivanshi-22&color=blueviolet)
-
+![GitHub followers](https://img.shields.io/github/followers/shivanshi-22?label=Follow&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/shivanshi-22?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-🎖️ **Check my GitHub Achievements 👉 [here](https://github.com/shivanshi-22?tab=achievements)**  
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshi-22&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshi-22&layout=compact&theme=radical)  
+
+<a href="https://github.com/shivanshi-22">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanshi-22&theme=radical" />
+</a>
+
+---
 
 ---
 

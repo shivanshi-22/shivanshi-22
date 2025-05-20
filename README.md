@@ -32,6 +32,13 @@ I am a passionate Computer Science student at Bennett University with experience
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshi-22&layout=compact&theme=radical)
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=shivanshi-22&color=blueviolet)
+
+![GitHub User's stars](https://img.shields.io/github/stars/shivanshi-22?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+🎖️ **Check my GitHub Achievements 👉 [here](https://github.com/shivanshi-22?tab=achievements)**  
+
+---
 
 ### Let's Connect! 🤝  
 Feel free to reach out via [email](mailto:shivanshigarg22@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shivanshi-garg-27b065206/).  

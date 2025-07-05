@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Shivanshi Garg 👋</h2>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Python+Developer!;An+AI+and+Tech+Enthusiast!"/></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Fullstack+Developer!;An+AI+and+Tech+Enthusiast!"/></a>
 </p>
 
 <p align="center">
@@ -9,25 +9,25 @@
 </p>
 
 <p align="center">
-I'm a dedicated and passionate student in Computer Science and Engineering with strong experience in python, cloud technologies, sql, and web development. A continuous learner who loves to explore new advancements in technology, especially in the AI and cloud domain. I'm always up for a good challenge and love collaborating on innovative projects.
+I am a passionate Computer Science student at Bennett University with experience in **web development**, **data science**, and **machine learning**. My focus is on creating user-centric applications that enhance accessibility and deliver results. I have a keen interest in tackling real-world challenges through technology. I'm always up for a good challenge and love collaborating on innovative projects.
 </p>
 
 
 <a align='center' href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=himanshi&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
+
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTYxaGUzZ20xc3l6amFoM3dlN3lraTMxdDhwMHRib21tOGtpdXNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtra4r7NXUlI5XRfOR/giphy.gif" height="250">
+
+
+
 🎓 **B.Tech. Computer Science (2022-2026)**  
 📍 Greater Noida, Uttar Pradesh  
 📧 [shivanshigarg22@gmail.com](mailto:shivanshigarg22@gmail.com)  
 🔗 [GitHub](https://github.com/shivanshi-22) | [LinkedIn](https://www.linkedin.com/in/shivanshi-garg-27b065206/)  
 [Portfolio](https://portfolio-cyjx.vercel.app/)
 
----
 
-## 🚀 About Me
-I am a passionate Computer Science student at Bennett University with experience in **web development**, **data science**, and **machine learning**. My focus is on creating user-centric applications that enhance accessibility and deliver results. I have a keen interest in tackling real-world challenges through technology.
-
----
 
 ## 🛠️ Technical Skills
 - **Languages**: JavaScript (ES6+), Python (Data Science, Flask, Django), Node.js  
@@ -58,6 +58,9 @@ I am a passionate Computer Science student at Bennett University with experience
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshi-22&layout=compact&theme=radical)  
 
 ---
+
+## 🚀 My contributions!...wait a snake?!
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/2dc0276a-b3b5-4fd5-b20f-3617237eee58)
 
 <a href="https://github.com/shivanshi-22">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanshi-22&theme=radical" />

@@ -4,6 +4,7 @@
 📍 Greater Noida, Uttar Pradesh  
 📧 [shivanshigarg22@gmail.com](mailto:shivanshigarg22@gmail.com)  
 🔗 [GitHub](https://github.com/shivanshi-22) | [LinkedIn](https://www.linkedin.com/in/shivanshi-garg-27b065206/)  
+[Portfolio](https://portfolio-cyjx.vercel.app/)
 
 ---
 

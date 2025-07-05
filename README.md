@@ -13,27 +13,29 @@ I am a passionate Computer Science student at Bennett University with experience
 </p>
 
 
-<a align='center' href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=himanshi&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
-
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTYxaGUzZ20xc3l6amFoM3dlN3lraTMxdDhwMHRib21tOGtpdXNzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtra4r7NXUlI5XRfOR/giphy.gif" height="250">
 
 
 
 🎓 **B.Tech. Computer Science (2022-2026)**  
 📍 Greater Noida, Uttar Pradesh  
-📧 [shivanshigarg22@gmail.com](mailto:shivanshigarg22@gmail.com)  
-🔗 [GitHub](https://github.com/shivanshi-22) | [LinkedIn](https://www.linkedin.com/in/shivanshi-garg-27b065206/)  
-[Portfolio](https://portfolio-cyjx.vercel.app/)
+<p align="center">
+  🌐 <a href="https://portfolio-cyjx.vercel.app/" target="_blank"><strong>Portfolio</strong></a> &nbsp;|&nbsp;
+  💻 <a href="https://github.com/shivanshi-22" target="_blank"><strong>GitHub</strong></a> &nbsp;|&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/shivanshi-garg-27b065206/" target="_blank"><strong>LinkedIn</strong></a>
+</p>
+
 
 
 
 ## 🛠️ Technical Skills
-- **Languages**: JavaScript (ES6+), Python (Data Science, Flask, Django), Node.js  
-- **Web Development**: HTML, CSS, React, Next.js, Redux, Tailwind, Firebase, MySQL, MongoDB  
-- **Tools**: Git, GitHub, Figma, Jira, Linux, Docker, AWS (Basics)  
-- **Cloud & DevOps**: Firebase, AWS Basics  
+
+| 💻 Languages            | 🌐 Web Dev Technologies             | ⚙️ Tools & Platforms         | ☁️ Cloud & DevOps     |
+|------------------------|-------------------------------------|------------------------------|-----------------------|
+| JavaScript (ES6+)      | HTML, CSS, React, Next.js, Redux    | Git, GitHub, Figma, Jira     | Firebase              |
+| Python (Flask, Django) | Tailwind CSS, Firebase, MySQL, MongoDB | Linux, Docker               | AWS (Basics)          |
+| Node.js                |                                     |                              |                       |
+
 
 ---
 
@@ -46,9 +48,10 @@ I am a passionate Computer Science student at Bennett University with experience
 
 ## 📛 Badges  
 
-![Profile views](https://komarev.com/ghpvc/?username=shivanshi-22&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/shivanshi-22?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/shivanshi-22?affiliations=OWNER%2CCOLLABORATOR&style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivanshi-22&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/shivanshi-22?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+</p>
 
 ---
 

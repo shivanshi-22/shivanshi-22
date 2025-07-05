@@ -1,5 +1,21 @@
-# Hi there! 👋 I'm Shivanshi Garg  
+<h2 align="center">Hi, I'm Shivanshi Garg 👋</h2>
 
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Python+Developer!;An+AI+and+Tech+Enthusiast!"/></a>
+</p>
+
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlqaXV4aWx1NXVwY3ZiY24zYmRxZG14bTcyb2oxZ3VsMjl4cjA1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif" />
+</p>
+
+<p align="center">
+I'm a dedicated and passionate student in Computer Science and Engineering with strong experience in python, cloud technologies, sql, and web development. A continuous learner who loves to explore new advancements in technology, especially in the AI and cloud domain. I'm always up for a good challenge and love collaborating on innovative projects.
+</p>
+
+
+<a align='center' href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=himanshi&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
 🎓 **B.Tech. Computer Science (2022-2026)**  
 📍 Greater Noida, Uttar Pradesh  
 📧 [shivanshigarg22@gmail.com](mailto:shivanshigarg22@gmail.com)  

@@ -84,14 +84,10 @@ I am a passionate Computer Science student at Bennett University with experience
 
 
 ## 🚀 My contributions!...wait a snake?!
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/2dc0276a-b3b5-4fd5-b20f-3617237eee58)
+![Shivanshi's contribution snake](https://github.com/shivanshi-22/shivanshi-22/blob/output/github-contribution-grid-snake.svg)
+
 
 <a href="https://github.com/shivanshi-22">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivanshi-22&theme=radical" />
 </a>
 
----
-
-
-### Let's Connect! 🤝  
-Feel free to reach out via [email](mailto:shivanshigarg22@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shivanshi-garg-27b065206/).  

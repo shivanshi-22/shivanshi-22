@@ -41,6 +41,7 @@ Git · GitHub · Figma · Jira · Linux · Docker · Firebase
 ### ☁️ Cloud & DevOps  
 Firebase · AWS (Basic)
 
+
 ---
 
 ## 🏆 Achievements
@@ -56,7 +57,7 @@ Firebase · AWS (Basic)
 </p>
 
 
----
+
 
 ## 📊 GitHub Stats  
 

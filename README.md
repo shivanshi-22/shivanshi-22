@@ -13,11 +13,6 @@ I am a passionate Computer Science student at Bennett University with experience
 </p>
 
 
-
-
-
-🎓 **B.Tech. Computer Science (2022-2026)**  
-📍 Greater Noida, Uttar Pradesh  
 <p align="center">
   🌐 <a href="https://portfolio-cyjx.vercel.app/" target="_blank"><strong>Portfolio</strong></a> &nbsp;|&nbsp;
   💻 <a href="https://github.com/shivanshi-22" target="_blank"><strong>GitHub</strong></a> &nbsp;|&nbsp;
@@ -71,15 +66,6 @@ I am a passionate Computer Science student at Bennett University with experience
   </tr>
 </table>
 
-
-
-
----
-
-## 🏆 Achievements
-- Secured **26th rank out of 410+ teams** in the 2024 Smart BU Hackathon; qualified for the Smart India Hackathon National Level.  
-- **1st Prize** in Scavenger Hunt (IEEE BU).  
-- Cleared 1st rounds of **Woodpecker’s Hackathon** and **Flipkart Grid 6.0**.
 
 ## 🏅 Badges
 

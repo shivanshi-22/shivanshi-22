@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-I am a passionate Computer Science student at Bennett University with experience in **web development**, **data science**, and **machine learning**. My focus is on creating user-centric applications that enhance accessibility and deliver results. I have a keen interest in tackling real-world challenges through technology. I'm always up for a good challenge and love collaborating on innovative projects.
+I am a passionate Computer Science student at Bennett University with experience in **web development**, **data science**, and **machine learning**. My focus is on creating user-centric applications that enhance accessibility and deliver results. I'm always up for a good challenge and love collaborating on innovative projects.
 </p>
 
 
@@ -27,15 +27,19 @@ I am a passionate Computer Science student at Bennett University with experience
 
 
 
-
 ## 🛠️ Technical Skills
 
-| 💻 Languages            | 🌐 Web Dev Technologies             | ⚙️ Tools & Platforms         | ☁️ Cloud & DevOps     |
-|------------------------|-------------------------------------|------------------------------|-----------------------|
-| JavaScript (ES6+)      | HTML, CSS, React, Next.js, Redux    | Git, GitHub, Figma, Jira     | Firebase              |
-| Python (Flask, Django) | Tailwind CSS, Firebase, MySQL, MongoDB | Linux, Docker               | AWS (Basics)          |
-| Node.js                |                                     |                              |                       |
+### 💻 Languages  
+JavaScript (ES6+) · Python (Flask, Django, Data Science) · Node.js
 
+### 🌐 Web Development  
+HTML · CSS · React · Next.js · Redux · Tailwind CSS · Firebase · MySQL · MongoDB
+
+### 🧰 Tools & Platforms  
+Git · GitHub · Figma · Jira · Linux · Docker · Firebase
+
+### ☁️ Cloud & DevOps  
+Firebase · AWS (Basic)
 
 ---
 
@@ -44,14 +48,13 @@ I am a passionate Computer Science student at Bennett University with experience
 - **1st Prize** in Scavenger Hunt (IEEE BU).  
 - Cleared 1st rounds of **Woodpecker’s Hackathon** and **Flipkart Grid 6.0**.
 
----
-
-## 📛 Badges  
+## 🏅 Badges
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivanshi-22&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/shivanshi-22?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=shivanshi-22&label=Profile%20Views&color=8e44ad&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/shivanshi-22?affiliations=OWNER&style=for-the-badge&label=GitHub%20Stars" alt="GitHub Stars" />
 </p>
+
 
 ---
 
@@ -60,7 +63,6 @@ I am a passionate Computer Science student at Bennett University with experience
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanshi-22&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshi-22&layout=compact&theme=radical)  
 
----
 
 ## 🚀 My contributions!...wait a snake?!
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/2dc0276a-b3b5-4fd5-b20f-3617237eee58)

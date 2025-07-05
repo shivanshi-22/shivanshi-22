@@ -19,6 +19,9 @@ I am a passionate Computer Science student at Bennett University with experience
   🔗 <a href="https://www.linkedin.com/in/shivanshi-garg-27b065206/" target="_blank"><strong>LinkedIn</strong></a>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 
 ## 🛠️ Technical Skills
@@ -83,8 +86,10 @@ I am a passionate Computer Science student at Bennett University with experience
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshi-22&layout=compact&theme=radical)  
 
 
-## 🚀 My contributions!...wait a snake?!
-![Shivanshi's contribution snake](https://github.com/shivanshi-22/shivanshi-22/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivanshi-22&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
 
 
 <a href="https://github.com/shivanshi-22">
